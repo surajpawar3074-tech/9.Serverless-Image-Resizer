@@ -1,8 +1,6 @@
 # 9.Serverless-Image-Resizer
 
-# 🖼️ Serverless Image Resizer using AWS Lambda & S3
-
-## 📌 Project Overview
+## Project Overview
 This project demonstrates a **serverless image processing system** that automatically processes images when they are uploaded to an S3 bucket.
 
 Whenever a new image is uploaded:
@@ -12,7 +10,7 @@ Whenever a new image is uploaded:
 
 ---
 
-## 🎯 Objective
+## Objective
 To:
 - Automate image processing  
 - Use event-driven architecture  
@@ -20,25 +18,25 @@ To:
 
 ---
 
-## 🧰 AWS Services Used
+## AWS Services Used
 
 - AWS Lambda – Executes image processing code  
 - :contentReference[oaicite:1]{index=1} – Stores original and processed images  
 
 ---
 
-## 🏗️ Architecture Flow
+## Architecture Flow
 
 S3 Upload → Lambda Trigger → Process Image → Store in Destination Bucket
 
 ---
 
-## ⚙️ Features
+## Features
 
-- ✅ Automatic processing on image upload  
-- ✅ Serverless (no infrastructure required)  
-- ✅ Real-time event trigger  
-- ✅ Scalable and efficient  
+- Automatic processing on image upload  
+- Serverless (no infrastructure required)  
+- Real-time event trigger  
+- Scalable and efficient  
 
 ---
 
