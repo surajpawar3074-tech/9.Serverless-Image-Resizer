@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "suraj-original-uploads-unique"
+        },
+        "object": {
+          "key": "images.jpg"
+        }
+      }
+    }
+  ]
+}
